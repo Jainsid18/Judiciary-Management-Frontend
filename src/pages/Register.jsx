@@ -21,6 +21,7 @@ function Register() {
                 email,
                 password,
                 phone,
+                role
                 
             });
 
